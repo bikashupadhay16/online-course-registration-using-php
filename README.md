@@ -1,3 +1,9 @@
+# Online Course Registration using PHP
+
+This project is an online course registration system built using PHP. The purpose of this project is to provide an easy way for students to register for courses online.
+
+## Features
+
 - Students can create an account, log in, and view available courses.
 - Students can register for courses, drop courses, and view their current schedule.
 - Admins can add new courses, delete courses, and view all student registrations.
@@ -14,15 +20,14 @@ To install this project, follow these steps:
 4. Update the database connection settings in the config.php file.
 5. Navigate to the project's homepage in your web browser to get started.
     
-# Usage/Examples
+## Usage/Examples
 
 Once the project is installed and running, students can create an account by clicking the "Sign Up" button on the homepage. After logging in, they can view available courses, register for courses, and drop courses from their schedule.
 
 Admins can log in to the system using the credentials set up in the config.php file. From there, they can add new courses, delete courses, and view all student registrations.
-```
 
 
-# Tech Stack
+## Tech Stack
 
 . PHP
 . MySQL
@@ -31,10 +36,10 @@ Admins can log in to the system using the credentials set up in the config.php f
 . JavaScript
 
 
-# Credit
+## Credit
 
 This project was created by [bikashupadhay16] as a part of [college project] at [BBDITM].
-# License
+## License
 
 
 This project is licensed under the MIT License. See the LICENSE file for more information.
